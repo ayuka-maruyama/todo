@@ -1,0 +1,16 @@
+.header {
+    background: #000;
+}
+
+.header__inner {
+    margin: 0 auto;/*画面サイズが変わっても、中央に来るように設定*/
+    padding: 20px 15px;
+    max-width: 1230px;/*画面サイズが変わってもinner部分は1230px*/
+}
+
+.header__logo {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+}

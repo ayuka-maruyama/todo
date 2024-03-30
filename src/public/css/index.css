@@ -5,6 +5,17 @@
   color: #0f5132;
 }
 
+.todo__alert--danger {
+  padding: 10px 0;
+  border-color: #f5c2c7;
+  background-color: #f8d7da;
+  color: #842029;
+}
+
+.todo__alert--danger ul {
+  margin: 0;
+}
+
 .todo__content {
   max-width: 1230px;
   margin: 0 auto;
